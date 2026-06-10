@@ -13,7 +13,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Sobre mí
 
 Soy desarrollador con visión doble: construyo sistemas desde cero **y** los analizo para mejorarlos. Tengo 13 meses de experiencia profesional en Mulieva S.A.S. y varios proyectos desplegados en producción que combinan desarrollo web con Machine Learning.
 
