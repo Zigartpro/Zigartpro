@@ -6,7 +6,7 @@
 
 #### Facatativá, Colombia
 
-[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portafolio-Zigartpro.github.io-6c63ff?style=for-the-badge)](https://Zigartpro.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-duvansarmiento-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/duvansarmiento) [![Email](https://img.shields.io/badge/Email-lugosarmiento7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lugosarmiento7@gmail.com)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portafolio-Zigartpro.github.io-6c63ff?style=for-the-badge)](https://Zigartpro.github.io) [![LinkedIn](https://img.shields.io/badge/LinkedIn-duvansarmiento-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/duvansarmiento) [![Email](https://img.shields.io/badge/Email-lugosarmiento7@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:duvanfedericosarmientolugo@gmail.com)
 
 ---
 
